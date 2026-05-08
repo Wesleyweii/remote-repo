@@ -1,2 +1,2 @@
-# AI
+# AGI
 This is AGI
